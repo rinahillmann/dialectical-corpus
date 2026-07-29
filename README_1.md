@@ -1,6 +1,6 @@
 # The Topics corpus: what's in here and how it fits together
 
-This repository collects thirteen texts tracing how Aristotle's *Topics* — his treatise on dialectical reasoning, i.e. how to argue persuasively from generally accepted premises rather than strict logical proof — was translated, commented on, and repurposed across Greek, Latin, Arabic, and Hebrew over roughly 1,500 years.
+This repository collects thirteen texts tracing how Aristotle's *Topics* (his treatise on dialectical reasoning, i.e. how to argue persuasively from generally accepted premises rather than strict logical proof) was translated and commented on across Greek, Latin, Arabic, and Hebrew over roughly 1,500 years.
 
 A quick note on vocabulary, since the folder names use it constantly:
 - **Translation**: rendering the same text into a new language.
@@ -10,10 +10,10 @@ A quick note on vocabulary, since the folder names use it constantly:
 ## Two branches
 
 **1. The core line (Greek → Latin, Greek → Arabic)**
-Aristotle's Greek original sits at the root. From there the tradition splits three ways: a Greek commentary, an Arabic translation, and a Latin line via Boethius. Cicero's *Topica* is a related but independently written work — not a translation of Aristotle, but a Roman rhetorical handbook drawing on the same logical material — with its own Latin commentary tradition. The only place this branch reaches Hebrew is at the very end, when ibn Tibbon translates Averroes' Arabic *Short Commentary*.
+Aristotle's Greek original sits at the root. From there the tradition splits three ways: a Greek commentary, an Arabic translation, and a Latin line via Boethius. Cicero's *Topica* is a related but independently written work (not a translation of Aristotle, but a Roman rhetorical handbook drawing on the same logical material) with its own Latin commentary tradition.
 
 **2. The Hebrew branch (skips Latin entirely)**
-Two further works reach Hebrew readers directly from Arabic, without ever passing through Latin: al-Farabi's own treatise on dialectic (*Kitab al-Jadal*), and Averroes' *Middle Commentary* on the *Topics*. Al-Farabi's Arabic original is in the corpus. Averroes' Middle Commentary is not — only his separate, shorter *Short Commentary* is present in Arabic; the Middle Commentary survives here only through its Hebrew translation (and a Hebrew super-commentary on that translation).
+Two further works reach Hebrew readers directly from Arabic, without ever passing through Latin: al-Farabi's own treatise on dialectic (*Kitab al-Jadal*), and Averroes' *Middle and Short Commentaries* on the *Topics*. Al-Farabi's Arabic original is in the corpus. Averroes' *Short Commentary* is present in Arabic; the *Middle Commentary* for now only through its Hebrew translation (and a Hebrew super-commentary on that translation).
 
 ## Folder by folder
 
