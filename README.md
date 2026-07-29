@@ -7,7 +7,7 @@ This repository collects fourteen texts tracing how Aristotle's *Topics* (his tr
 A quick note on vocabulary, since the folder names use it constantly:
 - **Translation**: rendering the same text into a new language.
 - **Commentary**: a separate text written to explain or gloss an existing one, in the same or a different language. A **super-commentary** comments on a commentary, rather than on the original.
-- Several folders are both, or something in between — that's flagged where it applies.
+- Several folders are both, or something in between. That's flagged where it applies.
 
 ## Two branches
 
