@@ -15,7 +15,7 @@ A quick note on vocabulary, since the folder names use it constantly:
 Aristotle's Greek original sits at the root. From there the tradition splits three ways: a Greek commentary, an Arabic translation, and a Latin line via Boethius. Cicero's *Topica* is a related but independently written work (not a translation of Aristotle, but a Roman rhetorical handbook drawing on the same logical material) with its own Latin commentary tradition.
 
 **2. The Hebrew branch (skips Latin entirely)**
-Three further works reach Hebrew readers directly from Arabic, without ever passing through Latin: al-Farabi's own treatise on dialectic (*Kitab al-Jadal*), and Averroes' *Middle Commentary* and *Short Commentary* on the *Topics*. Both Arabic originals are now in the corpus, each followed by a Hebrew translation — and, for the Middle Commentary, a further Hebrew super-commentary on top of that translation.
+Three further works reach Hebrew readers directly from Arabic, without ever passing through Latin: al-Farabi's own treatise on dialectic (*Kitab al-Jadal*), and Averroes' *Middle Commentary* and *Short Commentary* on the *Topics*. Both Arabic originals are now in the corpus, each followed by a Hebrew translation; and, for the Middle Commentary, a further Hebrew super-commentary on top of that translation.
 
 ## Folder by folder
 
