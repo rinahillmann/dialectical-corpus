@@ -34,7 +34,7 @@ Three further works reach Hebrew readers directly from Arabic, without ever pass
 | 11 | Qalonymos ben Qalonymos, translation of 10 | Hebrew | Translates 10 |
 | 12 | Todros Todrosi, super-commentary | Hebrew | Comments on 11 |
 | 13 | Averroes, Short Commentary on the Topics | Arabic | Comments on 01 (via the Arabic tradition) |
-| 14 | ibn Tibbon, translation of 13 | Hebrew | Translates 13 |
+| 14 | Jacob ben Makhir Ibn Tibbon, translation of 13 | Hebrew | Translates 13 |
 
 Folders 09, 11, and 14 each contain multiple manuscript witnesses (separate .txt files) rather than a single edited text, since no standard critical edition exists for those.
 
