@@ -1,6 +1,6 @@
 # The Dialectical Corpus
 
-what's in here and how it fits together:
+*What's in here and how it fits together:*
 
 This repository collects fourteen texts tracing how Aristotle's *Topics* (his treatise on dialectical reasoning, i.e. how to argue persuasively from generally accepted premises) was translated and commented on across Greek, Latin, Arabic, and Hebrew over roughly 1,500 years.
 
