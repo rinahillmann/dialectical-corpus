@@ -1,0 +1,15 @@
+doc_id, legacy_id, title, author, language, work_type, citation_scheme
+doc01, 01, Topics, Aristotle, grc, original,book_section
+doc02, 02, Alexander commentary on Topics, Alexander of Aphrodisias, grc, commentary, local
+doc03, 03, Al-Dimashqi translation of Topics, Al-Dimashqi, ara, translation,book_section
+doc04, 04, De topicis differentiis, Boethius, lat, recomposition, local
+doc05, 05, Abaelard commentary on De topicis differentiis, Abaelard, lat, commentary, local
+doc06, 06, Topica, Cicero, lat, recomposition, local
+doc07, 07, Boethius commentary on Cicero Topica, Boethius, lat, commentary, local
+doc08, 08, Kitab al-Jadal, Al-Farabi, ara, recomposition, local
+doc09, 09, Anonymous Hebrew translation of Kitab al-Jadal, Anonymous, heb, translation, local
+doc10, 10, Averroes Middle Commentary on Topics, Averroes, ara, commentary, local
+doc11, 11, , Qalonymos ben Qalonomos, heb, translation, local
+doc12, 12, Todros Todrosi super-commentary, Todros Todrosi, heb, supercommentary, local
+doc13, 13, Averroes Short Commentary on Topics, Averroes, ara, commentary, local
+doc14, 14, Jacob ben Makhir translation of Averroes Short Commentary, Jacob ben Makhir Ibn Tibbon, heb, translation, local
